@@ -4,7 +4,7 @@ FlowDesk is a multi-tenant SaaS workflow and task management platform built with
 
 ## Tech Stack
 
-- Laravel 12
+- Laravel 13
 - Vue.js
 - Sanctum Authentication
 - MySQL
